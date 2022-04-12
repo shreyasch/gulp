@@ -8,7 +8,7 @@
     "Eric Schoffstall <yo@contra.io>",
     "Blaine Bublitz <blaine.bublitz@gmail.com>"
   ],
-  "repository": "shreyasch/gulp",
+  "repository": "shreyasch / gulp",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
