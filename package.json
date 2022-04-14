@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "glob-watcher": "https://github.com/shreyasch/glob-watcher.git",
-    "gulp-cli": "https://github.com/shreyasch/gulp-cli.git",
+    "gulp-cli": "^2.3.0",
     "undertaker": "^1.2.1",
     "vinyl-fs": "https://github.com/shreyasch/vinyl-fs.git"
   },
