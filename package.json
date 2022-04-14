@@ -31,13 +31,13 @@
   },
   "dependencies": {
     "glob-watcher": "https://github.com/shreyasch/glob-watcher.git",
-    "gulp-cli": "^2.3.0",
+    "gulp-cli": "https://github.com/shreyasch/gulp-cli.git",
     "undertaker": "^1.2.1",
     "vinyl-fs": "https://github.com/shreyasch/vinyl-fs.git"
   },
   "devDependencies": {
     "coveralls": "github:phated/node-coveralls#2.x",
-    "eslint": "^2.13.1",
+    "eslint": "^8.13.0",
     "eslint-config-gulp": "^3.0.1",
     "expect": "^1.20.2",
     "mkdirp": "^0.5.1",
